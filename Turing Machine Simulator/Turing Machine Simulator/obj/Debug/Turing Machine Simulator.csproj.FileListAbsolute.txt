@@ -1,0 +1,9 @@
+c:\users\mohamed\documents\visual studio 2013\Projects\Turing Machine Simulator\Turing Machine Simulator\bin\Debug\Turing Machine Simulator.exe.config
+c:\users\mohamed\documents\visual studio 2013\Projects\Turing Machine Simulator\Turing Machine Simulator\bin\Debug\Turing Machine Simulator.exe
+c:\users\mohamed\documents\visual studio 2013\Projects\Turing Machine Simulator\Turing Machine Simulator\bin\Debug\Turing Machine Simulator.pdb
+c:\users\mohamed\documents\visual studio 2013\Projects\Turing Machine Simulator\Turing Machine Simulator\obj\Debug\Turing Machine Simulator.csprojResolveAssemblyReference.cache
+c:\users\mohamed\documents\visual studio 2013\Projects\Turing Machine Simulator\Turing Machine Simulator\obj\Debug\Turing_Machine_Simulator.MainForm.resources
+c:\users\mohamed\documents\visual studio 2013\Projects\Turing Machine Simulator\Turing Machine Simulator\obj\Debug\Turing_Machine_Simulator.Properties.Resources.resources
+c:\users\mohamed\documents\visual studio 2013\Projects\Turing Machine Simulator\Turing Machine Simulator\obj\Debug\Turing Machine Simulator.csproj.GenerateResource.Cache
+c:\users\mohamed\documents\visual studio 2013\Projects\Turing Machine Simulator\Turing Machine Simulator\obj\Debug\Turing Machine Simulator.exe
+c:\users\mohamed\documents\visual studio 2013\Projects\Turing Machine Simulator\Turing Machine Simulator\obj\Debug\Turing Machine Simulator.pdb
